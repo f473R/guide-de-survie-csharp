@@ -10,7 +10,7 @@ Relationships between the train and schedules.
 
 Implement breaking.
 
-Database representation. Enforcement of the relationships.
+Model representation with class diagram. Enforcement of the relationships.
 
 Get all of the trains leaving specific station today.
 
