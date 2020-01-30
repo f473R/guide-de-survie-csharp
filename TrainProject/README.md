@@ -1,4 +1,17 @@
 # Train Project #
 
 Imagine that you are coding the train system.
-This is the beginnings of it.
+
+How do you imagine the entities will be arranged?
+
+What properties would your entities share, differentiate?
+
+Relationships between the train and schedules.
+
+Implement breaking.
+
+Database representation. Enforcement of the relationships.
+
+Get all of the trains leaving specific station today.
+
+Most used engine this month.
