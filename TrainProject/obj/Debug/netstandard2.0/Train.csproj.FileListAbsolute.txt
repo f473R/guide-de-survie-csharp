@@ -1,0 +1,8 @@
+/home/vsonline/workspace/TrainProject/bin/Debug/netstandard2.0/Train.deps.json
+/home/vsonline/workspace/TrainProject/bin/Debug/netstandard2.0/Train.dll
+/home/vsonline/workspace/TrainProject/bin/Debug/netstandard2.0/Train.pdb
+/home/vsonline/workspace/TrainProject/obj/Debug/netstandard2.0/Train.csprojAssemblyReference.cache
+/home/vsonline/workspace/TrainProject/obj/Debug/netstandard2.0/Train.AssemblyInfoInputs.cache
+/home/vsonline/workspace/TrainProject/obj/Debug/netstandard2.0/Train.AssemblyInfo.cs
+/home/vsonline/workspace/TrainProject/obj/Debug/netstandard2.0/Train.dll
+/home/vsonline/workspace/TrainProject/obj/Debug/netstandard2.0/Train.pdb
